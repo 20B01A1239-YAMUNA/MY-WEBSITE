@@ -4,7 +4,9 @@ body{
    margin: 0px;
    padding: 0px;
    background: url('images/its_me_yammu.jpg.jpeg');
-   background-repeat: no-repeat;
+   background-repeat: no-repeat; 
+   height: 100%;
+   width: 100%;
 }
 .right{
    display: inline-block;
@@ -37,7 +39,7 @@ body{
    font-family: 'Baloo Bhaijaan 2', cursive;
    margin: 0px 9px;
   padding: 7px 38px;
-  background-color: black;
+  background-color: hotpink;
   color: white;
   border: 2px solid grey;
   border-radius: 10px;
