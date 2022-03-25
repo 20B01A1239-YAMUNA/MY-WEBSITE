@@ -7,8 +7,8 @@ body{
    background-repeat: no-repeat; 
   }
   .website{
-     height: 100px;
-     width:100px;
+     height: 100%;
+     width:100%;
   }
 .right{
    display: inline-block;
