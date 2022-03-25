@@ -5,9 +5,11 @@ body{
    padding: 0px;
    background: url('images/its_me_yammu.jpg.jpeg');
    background-repeat: no-repeat; 
-   height: 100%;
-   width: 100%;
-}
+  }
+  .website{
+     height: 100px;
+     width:100px;
+  }
 .right{
    display: inline-block;
    position: absolute;
