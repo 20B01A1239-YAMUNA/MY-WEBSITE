@@ -5,6 +5,7 @@ body{
    padding: 0px;
    background: url('images/its_me_yammu.jpg.jpeg');
    background-repeat: no-repeat; 
+   background-size: cover;
   }
   .website{
      height: 100%;
