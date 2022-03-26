@@ -18,7 +18,7 @@ function callme()
      {
         alert("enter mail");
     }
-    if((phone.length.value != 10))
+    if(phone.value!=10)
     {
         alert("invalid number");
     }
