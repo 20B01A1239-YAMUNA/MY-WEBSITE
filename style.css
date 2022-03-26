@@ -66,11 +66,9 @@ body{
 }
 .container{
    align-items: center;
-   border: 2px solid black;
    margin: 10px -200px;
    padding: 18px 52px;
    width: 35%;
-   border-radius: 30px;
    position: absolute;
    left: 830px;
 }
